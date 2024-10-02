@@ -52,8 +52,8 @@ To set up the project on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/OmBiradar/drone-control-project.git
-   cd drone-control-project
+   git clone https://github.com/OmBiradar/Drone.git
+   cd Drone
    ```
 
 2. **Open the Project in Arduino IDE**:
